@@ -1,6 +1,9 @@
 html {
   background-color: green;
-  font-family: 'Roboto Mono', courier;
+  font-family: courier;
+}
+body{
+    font-family: courier;
 }
 
 * {
