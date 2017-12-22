@@ -11,6 +11,7 @@ body{
 }
 
 .text-center1 {
+  font-family: courier;
   padding: 30px;
   font-size: 18px;
   color: green;
